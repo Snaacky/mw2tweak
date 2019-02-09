@@ -1,5 +1,5 @@
 # MW2Tweak
-Removes FPS cap and adds field of view customization support for Modern Warfare 2.
+Removes the 91 FPS cap and adds field of view customization support for the latest Steam version of Modern Warfare 2.
 
 ## Requirements
 * Python 3.4 (or greater)
