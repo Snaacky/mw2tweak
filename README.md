@@ -13,4 +13,4 @@ Removes the 91 FPS cap and adds field of view customization support for the late
 4. `python mw2tweak.py`
 
 ## Warning
-MW2Tweak comes as is with no guarantees regarding its standing with VAC. This is technically a cheat and could get you banned if you attempt to use it on any servers (public or private) on the Steam version of MW2.
+MW2Tweak comes as is with no guarantees regarding its standing with VAC. This is a cheat and will get you banned if you attempt to use it on any cheat protected servers. I do not encourage cheating in any form.
